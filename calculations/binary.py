@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#bash loop https://codefather.tech/blog/bash-loop-through-lines-file/
 
 import argparse
 
