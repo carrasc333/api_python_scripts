@@ -5,9 +5,6 @@ import os
 import sys
 import time
 
-
-reader_isready_header = "echo Reader is ready"
-
 parser = argparse.ArgumentParser()
 
 parser.add_argument('-f', help="Feedack File", required=False)
